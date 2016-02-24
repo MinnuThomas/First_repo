@@ -1,4 +1,4 @@
-package ca.uwo.csd.cs2212.MinnuThomas;
+package com.github.MinnuThomas;
 
 public class BankAccount {
 
